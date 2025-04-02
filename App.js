@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   highlighted: {
-    backgroundColor: "#ff0",
+    backgroundColor: "#A4C639",
   },
   winnerText: {
     fontSize: 30,
